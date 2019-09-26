@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336506640701",
+    "firebase_url": "https://myalgofocus.firebaseio.com",
+    "project_id": "myalgofocus",
+    "storage_bucket": "myalgofocus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336506640701:android:ffdae67b65f88076f60d54",
+        "android_client_info": {
+          "package_name": "com.test.myalgofocus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336506640701-v7miiomu95bpbab78uf8o42pusbq9u03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.myalgofocus",
+            "certificate_hash": "4263595b6e6324089c03dea6b60fc9e6ddf1724d"
+          }
+        },
+        {
+          "client_id": "336506640701-18cetqn7cb0va14fapdohuoqts8as0ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlXvatmhfLFz0RLcECzJXWz6nPpukLy70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336506640701-18cetqn7cb0va14fapdohuoqts8as0ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
